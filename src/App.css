@@ -2,14 +2,18 @@
 
 /* 7. Write CSS rules that ensure that no more than 4 photos appear on a row */
 
+.body{
+    text-align: center;
+}
 
 .header{
 width: 100%;
 margin: auto 0;
-text-align: center;
+display: inline-block;
 }
 
- .collage{
-display: inline-block;
+.collage{
 max-width: 800px;
+display: inline-block;
+margin: auto 0;
 }
