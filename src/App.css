@@ -1,11 +1,14 @@
 body{
     text-align: center;
+    color: whitesmoke;
 }
 
 header{
-width: 100%;
-margin: auto 0;
-display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    width: 100%;
+    margin: auto 0;
+    display: inline-block;
 }
 
 .collage{
